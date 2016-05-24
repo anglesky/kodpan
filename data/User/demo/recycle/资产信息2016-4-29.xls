@@ -1,0 +1,12 @@
+<style>td{mso-number-format:"\@";}</style>
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">编码</th><th scope="col">类型</th><th scope="col">品牌</th><th scope="col">型号</th><th scope="col">名称</th><th scope="col">设备状态</th><th scope="col">购置人</th><th scope="col">购置日期</th><th scope="col">购入价格</th><th scope="col">配置</th><th scope="col">录入人</th><th scope="col">录入时间</th><th scope="col">负责人</th><th scope="col">所属部门</th><th scope="col">启用日期</th><th scope="col">使用年限</th>
+		</tr><tr>
+			<td>ZD304-1501-637</td><td>电子设备</td><td>瀚视奇</td><td>HE196ABB</td><td>显示器</td><td>正常使用</td><td>&nbsp;</td><td>2013/05/25</td><td>0.00</td><td>HE196ABB</td><td>系统管理员</td><td>2015/01/07</td><td>孙安广</td><td>基础平台研发中心</td><td>&nbsp;</td><td>0.0</td>
+		</tr><tr>
+			<td>ZD302-1501-533</td><td>电子设备</td><td>台式主机</td><td>台式主机</td><td>台式主机</td><td>正常使用</td><td>&nbsp;</td><td>2013/08/16</td><td>0.00</td><td>CPU: (英特尔)Intel(R) Pentium(R) CPU G860 @ 3.00GHz(3000 MHz)主板：华擎H61M-VS3内存：4.00 GB +8G(DDR3  SDRAM) 硬盘：1000 GB (西数 WDC WD10EZEX-08RKKA0)(7200转/分)显卡：英特尔 Sandy Bridge-DT GT-Integrated Graphics 控制器 [D2/J1/Q0][华擎]</td><td>系统管理员</td><td>2015/01/07</td><td>孙安广</td><td>基础平台研发中心</td><td>2015/12/11</td><td>0.0</td>
+		</tr>
+	</table>
+</div>
