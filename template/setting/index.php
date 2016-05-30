@@ -26,7 +26,6 @@ http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 				<li id="fav"><i class="font-icon icon-star"></i><?php echo $L['setting_fav'];?></li>
 				<li id="player"><i class="font-icon icon-music"></i><?php echo $L['setting_player'];?></li>	
 				<li id="help"><i class="font-icon icon-question"></i><?php echo $L['setting_help'];?></li>
-				<li id="about"><i class="font-icon icon-info-sign"></i><?php echo $L['setting_about'];?></li>
 			</ul>
 		</div>		
 		<div class='main'></div>
